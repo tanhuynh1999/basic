@@ -1,0 +1,11 @@
+/* font text */
+/* font size text */
+/* color text */
+#header h1 {
+    color: red;
+}
+
+#header p {
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
